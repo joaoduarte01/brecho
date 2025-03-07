@@ -17,24 +17,16 @@ body {
 #camisetas{
     text-align: center;
     display: flex;
-    justify-content: center;
-}
-
-#relogio{
-    text-align: center;
-    display: flex;
     margin: 30px;
     border: 5px;
-
-
 }
 
-.relogio{
+.imagens_camisetas{ 
     margin: 30px;
     border: 5px;
     border-style: solid;
     border-color: black;
-    max-height: 220px;
+    max-width: 220px;
     max-height: 190px;
 
 }
@@ -56,4 +48,21 @@ body {
     max-width: 220px;
     max-height: 190px;
 
+}
+#acessorios{
+    text-align: center;
+    display: flex;
+    margin: 30px;
+    border: 5px;
+
+
+}
+
+.imagens_acessorios{
+    margin: 30px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    max-width: 220px;
+    max-height: 190px;
 }
