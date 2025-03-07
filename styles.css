@@ -1,9 +1,9 @@
 body {
     margin: 20px;
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     background-color: rgb(255, 255, 255);
-  
+    
 }
 
 
@@ -13,11 +13,38 @@ body {
     color: aliceblue;
 
 }
+
 #camisetas{
-    background-color: rgb(0, 0, 0);
-    padding: 50px;
-    height: 600px;
     text-align: center;
     display: flex;
-    justify-content: center;
+    margin: 30px;
+    border: 5px;
+    
+}    
+
+.camiseta_sonni{
+    margin: 30px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(15, 15, 90);
+    max-width: 220px;
+    max-height: 190px;
+}
+
+#shorts{
+    text-align: center;
+    display: flex;
+    margin: 30px;
+    border: 5px;
+    
+}    
+
+.shorts_sonni{
+    margin: 30px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(15, 15, 90);
+    max-width: 220px;
+    max-height: 190px;
+
 }
