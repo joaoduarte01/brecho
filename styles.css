@@ -22,11 +22,11 @@ body {
     
 }    
 
-.camiseta_sonni{
+.imagens_camisetas{
     margin: 30px;
     border: 5px;
     border-style: solid;
-    border-color: rgb(15, 15, 90);
+    border-color: black;
     max-width: 220px;
     max-height: 190px;
 }
@@ -39,11 +39,11 @@ body {
     
 }    
 
-.shorts_sonni{
+.imagens_shorts{
     margin: 30px;
     border: 5px;
     border-style: solid;
-    border-color: rgb(15, 15, 90);
+    border-color: black;
     max-width: 220px;
     max-height: 190px;
 
