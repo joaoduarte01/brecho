@@ -16,7 +16,6 @@ body {
 
 #camisetas{
     text-align: center;
-    display: flex;
     margin: 30px;
     border: 5px;
 }
@@ -28,13 +27,12 @@ body {
     border-color: black;
     max-width: 220px;
     max-height: 190px;
-
+    justify-content: center;
 }
 
 
 #shorts{
     text-align: center;
-    display: flex;
     margin: 30px;
     border: 5px;
     
@@ -47,7 +45,7 @@ body {
     border-color: black;
     max-width: 220px;
     max-height: 190px;
-
+    justify-content: center;
 }
 #acessorios{
     text-align: center;
@@ -68,7 +66,11 @@ body {
 }
 
 
+.ladoalado{
+    display: flex;
+    align-items: center;
 
+}
 
 
 
