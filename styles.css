@@ -17,19 +17,28 @@ body {
 #camisetas{
     text-align: center;
     display: flex;
+    justify-content: center;
+}
+
+#relogio{
+    text-align: center;
+    display: flex;
     margin: 30px;
     border: 5px;
-    
-}    
 
-.imagens_camisetas{
+
+}
+
+.relogio{
     margin: 30px;
     border: 5px;
     border-style: solid;
     border-color: black;
-    max-width: 220px;
+    max-height: 220px;
     max-height: 190px;
+
 }
+
 
 #shorts{
     text-align: center;
