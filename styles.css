@@ -21,3 +21,22 @@ body {
     display: flex;
     justify-content: center;
 }
+
+#relogio{
+    text-align: center;
+    display: flex;
+    margin: 30px;
+    border: 5px;
+
+
+}
+
+.relogio{
+    margin: 30px;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    max-height: 220px;
+    max-height: 190px;
+
+}
